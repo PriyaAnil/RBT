@@ -1,0 +1,2 @@
+# RBT
+A red–black tree is a kind of self-balancing binary search tree. Each node of the binary tree has an extra bit, and that bit is often interpreted as the color (red or black) of the node. These color bits are used to ensure the tree remains approximately balanced during insertions and deletions. Though it is not perfectly balanced tree, it is good enough to allow it to guarantee searching in O (log n).
